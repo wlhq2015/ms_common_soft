@@ -17,3 +17,6 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 
 2、Sublime Text3取消自动更新(解决设置update_check后不生效)
 https://blog.csdn.net/qq_34497272/article/details/117413276
+
+3、官方下载地址：
+https://www.sublimetext.com/3
