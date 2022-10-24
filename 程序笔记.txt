@@ -1,0 +1,8 @@
+1、海明码（汉明码、Hamming Code）
+https://blog.csdn.net/Never_Satisfied/article/details/81988928
+
+2、什么是奇偶校验？
+https://blog.csdn.net/De_tralization/article/details/122579459
+
+3、单精度浮点数
+https://zh.wikipedia.org/wiki/%E5%96%AE%E7%B2%BE%E5%BA%A6%E6%B5%AE%E9%BB%9E%E6%95%B8
