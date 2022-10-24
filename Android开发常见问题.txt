@@ -1,0 +1,5 @@
+1、去混淆或符号化崩溃堆栈跟踪
+	https://support.google.com/googleplay/android-developer/answer/9848633
+	https://developer.android.com/studio/build/shrink-code#native-crash-support
+2、SDK 平台版本说明
+	https://developer.android.com/studio/releases/platforms
